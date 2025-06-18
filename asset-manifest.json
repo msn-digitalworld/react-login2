@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/msn-digitalworld/react-login2/static/css/main.7e62dc59.css",
+    "main.js": "/msn-digitalworld/react-login2/static/js/main.8a2ada0a.js",
+    "static/js/453.f8f13224.chunk.js": "/msn-digitalworld/react-login2/static/js/453.f8f13224.chunk.js",
+    "index.html": "/msn-digitalworld/react-login2/index.html",
+    "main.7e62dc59.css.map": "/msn-digitalworld/react-login2/static/css/main.7e62dc59.css.map",
+    "main.8a2ada0a.js.map": "/msn-digitalworld/react-login2/static/js/main.8a2ada0a.js.map",
+    "453.f8f13224.chunk.js.map": "/msn-digitalworld/react-login2/static/js/453.f8f13224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e62dc59.css",
+    "static/js/main.8a2ada0a.js"
+  ]
+}
